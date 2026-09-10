@@ -1,5 +1,5 @@
 import random
-
+random.seed(42)
 
 def comprar_mao(deck):
     deck = deck.copy()
